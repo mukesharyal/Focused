@@ -95,7 +95,7 @@ header > .collapsible-header{
 }
 
 .btn{
-    padding: 10px 15px;
+    padding: 10px 20px;
     width: max-content;
     border-radius: 5px;
     color: var(--btn-color);
