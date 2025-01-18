@@ -106,9 +106,6 @@ header > .collapsible-header{
     cursor: pointer;
 }
 
-.btn:hover{
-
-}
 
 .btn:disabled{
     cursor: default;
@@ -178,10 +175,6 @@ header > .collapsible-header{
     transition: max-height 0.4s, padding 0.4s;
 }
 
-.faq-accordion .active,
-.faq-accordion:hover {
-    /* background-color: #2e2c2c; */
-}
 
 @media not all and (min-width: 1024px) {
     header .collapsible-header {
